@@ -77,7 +77,7 @@ others: #其他列表显示
 - type: others
   name: '兴趣'
   content: 
-  -title
+  -title:
     items: #单行列表
     - 音乐
     - 旅行
@@ -85,7 +85,7 @@ others: #其他列表显示
 - type: others
   name: '获奖与证书'
   content: 
-  -title
+  -title:
     list:
     - 江西省电子科技大赛三等奖
     - 校电子科技竞赛一等奖
