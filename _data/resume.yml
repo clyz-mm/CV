@@ -77,20 +77,22 @@ others: #其他列表显示
 - type: others
   name: '兴趣'
   content: 
+  -title
     items: #单行列表
     - 音乐
     - 旅行
     - coding
 - type: others
-  name: '获奖情况与相关等级证书'
+  name: '获奖与证书'
   content: 
+  -title
     list:
     - 江西省电子科技大赛三等奖
     - 校电子科技竞赛一等奖
     - 优秀团员
     - 计算机国家二级证书
 - type: others
-  name: '获奖情况与相关等级证书'
+  name: '成绩单'
   content:  
     - 成绩单见附录
 #- type: 
