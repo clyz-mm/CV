@@ -37,7 +37,7 @@ main: #简历主要内容，
 
 
 - type: skills
-  # name: "技能"
+  name: "编程语言"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
@@ -49,7 +49,7 @@ main: #简历主要内容，
 
 
 - type: projects
-  name: Projects
+  name: 项目
   content:
   - title: 智能平衡小车
     duration: 2018年04月 - 2018年05月
@@ -74,20 +74,24 @@ others: #其他列表显示
   name: '技能'
   content: 
   - 熟练掌握C,C++,JAVA,Python 等多门编程语言，有一定的后台系统以及单片机开发经验，熟悉pid,卡尔曼滤波，步进电机等硬件控制算法，熟悉各种语言的排序，堆栈，查找算法，对java框架有一定了解并有一定的开发经验，对Hexo博客框架有一定了解并基于其框架搭建了个人博客，熟悉Linux操作，熟悉ssh远程管理服务器，有一定的项目开发经验和一定的外语阅读能力。
-  - text: "列表项二"
-  - title: "兴趣:"
+- type: others
+  name: '兴趣'
+  content: 
     items: #单行列表
     - 音乐
     - 旅行
     - coding
-  - title: 获奖情况与相关等级证书
+- type: others
+  name: '获奖情况与相关等级证书'
+  content: 
     list:
     - 江西省电子科技大赛三等奖
     - 校电子科技竞赛一等奖
     - 优秀团员
     - 计算机国家二级证书
-  - title: 成绩单
-    list:
+- type: others
+  name: '获奖情况与相关等级证书'
+  content:  
     - 成绩单见附录
 #- type: 
 #  name: '其他'
