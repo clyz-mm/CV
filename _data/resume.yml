@@ -3,17 +3,17 @@
 
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "刘厚丰"
+name: "陈明明"
 jobtitle: "" #可空不显示
 photo: "" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "lhf970417@gmail.com" #文本内容
-  href: 'mailto:lhf970417@gmail.com' #链接，无链接则空  
+- text: "niyoudu9@gmail.com" #文本内容
+  href: 'mailto:niyoudu9@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "18079297476"
-  href: 'tel:18079297476'
+- text: "15720954819"
+  href: 'tel:15720954819'
   icon: 'icons/phone.svg'
 - text: "19mike.xyz"
   href: 'http://19mike.xyz'
@@ -57,7 +57,7 @@ main: #简历主要内容，
 
   - title: 钢珠抛射装置
     duration: 2018年06月 - 2018年06月
-    detail: 使用arduino驱动步进电机抛射小钢珠，并使其距离可控。该项目在江西省电子科技竞赛中获得江西省三等奖。
+    detail: 使用单片机驱动步进电机抛射小钢珠，并使其距离可控。该项目在江西省电子科技竞赛中获得江西省三等奖。
     
   - title: 魔方自动还原系统
     duration: 2019年03月 - 2019年04月
@@ -70,7 +70,7 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '技能'
   content: 
-  - 熟练掌握C,C++,JAVA,Python 等多门编程语言，有一定的后台系统以及单片机开发经验，熟悉pid,卡尔曼滤波，步进电机等硬件控制算法，熟悉各种语言的排序，堆栈，查找算法，对java框架有一定了解并有一定的开发经验，对Hexo博客框架有一定了解并基于其框架搭建了个人博客，熟悉Linux操作，熟悉ssh远程管理服务器，有一定的项目开发经验和一定的外语阅读能力。
+  - 熟练掌握C,C++,JAVA,Python 等多门编程语言，有一定的后台系统以及单片机开发经验，熟悉pid，步进电机等硬件控制算法，熟悉各种语言的排序，堆栈，查找算法，对java框架有一定了解并有一定的开发经验，熟悉Linux操作，熟悉ssh远程管理服务器，有一定的项目开发经验和一定的外语阅读能力。
 - type: others
   name: '兴趣'
   content: 
@@ -83,7 +83,7 @@ others: #其他列表显示
     - 江西省电子科技大赛三等奖,
     - 校电子科技竞赛一等奖,
     - 优秀团员,
-    - 计算机国家二级证书,
+    - 三等奖学金
 - type: others
   name: '成绩单'
   content:  
