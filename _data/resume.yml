@@ -17,15 +17,16 @@ contact: #联系方式连接等3~5行
   href: 'tel:15720954819'
   icon: 'icons/phone.svg'
   
+- text: "www.clyz-mm.xyz"
+  href: 'https://www.clyz-mm.xyz'
+  icon: "icon: "icons/web.svg""
+  attr: 'target="_blank"'
+  
 - text: "clyz-mm"
   href: 'https://github.com/clyz-mm'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
   
-- text: "Blog"
-  href: 'https://www.clyz-mm.xyz'
-  icon: "icon: "icons/web.svg""
-  attr: 'target="_blank"'
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
