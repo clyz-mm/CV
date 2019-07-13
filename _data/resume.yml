@@ -91,10 +91,10 @@ others: #其他列表显示
     - 校电子科技竞赛一等奖,
     - 优秀团员,
     - 三等奖学金
-- type: others
-  name: '成绩单'
-  content:  
-    - 成绩单见附录
+#- type: others
+#  name: '成绩单'
+#  content:  
+#    - 成绩单见附录
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
