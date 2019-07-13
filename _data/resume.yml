@@ -12,13 +12,16 @@ contact: #联系方式连接等3~5行
 - text: "niyoudu9@gmail.com" #文本内容
   href: 'mailto:niyoudu9@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
+  
 - text: "15720954819"
   href: 'tel:15720954819'
   icon: 'icons/phone.svg'
+  
 - text: "clyz-mm"
   href: 'https://github.com/clyz-mm'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
+  
 - text: "Blog"
   href: 'https://www.clyz-mm.xyz'
   icon: "icon: "icons/location.svg""
