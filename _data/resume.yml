@@ -22,6 +22,7 @@ contact: #联系方式连接等3~5行
 - text: "Blog"
   href: 'https://www.clyz-mm.xyz'
   icon: "icon: "icons/location.svg""
+  attr: 'target="_blank"'
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
