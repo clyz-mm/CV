@@ -81,9 +81,9 @@ others: #其他列表显示
 - type: others
   name: '兴趣'
   content: 
-    - 音乐,
-    - 旅行
-    - coding
+    - 计算机
+    - 篮球
+    - 编程
 - type: others
   name: '获奖与证书'
   content: 
