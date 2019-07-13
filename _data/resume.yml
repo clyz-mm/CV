@@ -19,7 +19,7 @@ contact: #联系方式连接等3~5行
   href: 'https://github.com/clyz-mm'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
-- text: "地址"
+- text: "Blog"
   href: 'https://www.clyz-mm.xyz'
   icon: "icon: "icons/location.svg""
 
@@ -60,6 +60,10 @@ main: #简历主要内容，
   - title: 魔方自动还原系统
     duration: 2019年03月 - 2019年04月
     detail: 使用opencv对魔方进行图像识别，并采用自动解析算法生成复原步骤，再通过步进电机使其复原。 
+    
+  - title: 四足蜘蛛机器人
+    duration: 2019年04月 - 2019年05月
+    detail: 利用3D打印出整体框架，核心单片机采用arduino nano、动力部分由12个180度舵机组成，利用蓝牙模块实现手机app控制机器人动作。 
     
    #可继续添加更多内容
 
