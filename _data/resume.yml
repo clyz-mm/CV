@@ -9,8 +9,8 @@ photo: "" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "niyoudu9@gmail.com" #文本内容
-  href: 'mailto:niyoudu9@gmail.com' #链接，无链接则空  
+- text: "c@clyz-mm.xyz" #文本内容
+  href: 'mailto:c@clyz-mm.xyz' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
   
 - text: "15720954819"
