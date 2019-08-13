@@ -81,12 +81,12 @@ others: #其他列表显示
   name: '技能'
   content: 
   - 熟练掌握C,C++,JAVA,Python 等多门编程语言，有一定的后台系统以及单片机开发经验，熟悉pid、熟悉openMv的开发与程序编写、步进电机等硬件控制算法，熟悉各种语言的排序，堆栈，查找算法，对java框架有一定了解并有一定的开发经验，熟悉Linux操作，熟悉ssh远程管理服务器，有一定的项目开发经验和一定的外语阅读能力。
-- type: others
-  name: '兴趣'
-  content: 
-    - 计算机
-    - 篮球
-    - 编程
+#- type: others
+#  name: '兴趣'
+#  content: 
+#    - 计算机
+#    - 篮球
+#    - 编程
 - type: others
   name: '获奖与证书'
   content: 
